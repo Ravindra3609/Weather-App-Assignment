@@ -4,7 +4,7 @@ import {gsap} from 'gsap';
 
 const Animation = () => {
     return(
-        <div className='logo'>Weather App - Hiring hood </div>
+        <div className='logo'>Weather App </div>
     )
 }
 
